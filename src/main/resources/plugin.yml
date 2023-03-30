@@ -1,0 +1,8 @@
+name: WantedGame
+version: '${project.version}'
+main: com.github.TACOWASA059.wantedgame.WantedGame
+api-version: 1.16
+depend: [ProtocolLib]
+commands:
+  wg:
+    description:
